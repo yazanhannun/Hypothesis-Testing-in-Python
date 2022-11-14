@@ -1,1 +1,1 @@
-# Introduction-to-Hypothesis-Testing
+# Hypothesis Testing in Python
